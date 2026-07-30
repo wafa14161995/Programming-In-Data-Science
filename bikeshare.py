@@ -167,6 +167,8 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('='*50)
+# Row data 
+
 def display_raw_data(df):
     """Displays raw data 5 rows at a time upon user request."""
     enter = ['yes', 'no']

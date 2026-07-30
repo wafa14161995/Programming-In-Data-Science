@@ -82,6 +82,8 @@ def load_data(city, month, day):
 
     return df
 
+# Function to display travel time statistics
+
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
@@ -167,6 +169,8 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('='*50)
+# Row data 
+
 def display_raw_data(df):
     """Displays raw data 5 rows at a time upon user request."""
     enter = ['yes', 'no']

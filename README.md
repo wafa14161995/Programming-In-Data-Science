@@ -14,4 +14,4 @@ A Python program that analyzes US bikeshare data for Chicago, New York City, and
 bikeshare.py, new_york_city.csv, chicago.csv, washington.csv
 
 ### Credits
-Udacity Programming for Data Science with Python Nanodegree.
+This project was completed as part of the Udacity Data Science Nanodegree.

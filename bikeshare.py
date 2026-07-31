@@ -111,7 +111,7 @@ def time_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('='*50)
 
-
+# Function to display most popular stations and trips
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
     print('\nCalculating The Most Popular Stations and Trip...\n')
